@@ -1,0 +1,18 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class Spells : Card {
+
+    private int effect;
+
+    public void setEffect(int effect)
+    {
+        effect = this.effect;
+    }
+
+    public int getEffect()
+    {
+        return effect;
+    }
+	}
+

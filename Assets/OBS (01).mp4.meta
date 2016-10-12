@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: d19cd48ae14bf2a48a86c8f3c65f151c
+timeCreated: 1456825536
+licenseType: Free
+=======
+guid: 19fd92275f3dbe349bdbe76a2dd39f59
+timeCreated: 1457524201
+licenseType: Pro
+>>>>>>> parent of ecbd92a... Phases Working -Gary
+MovieImporter:
+  serializedVersion: 1
+  quality: .5
+  linearTexture: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

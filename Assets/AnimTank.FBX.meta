@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: cc51053466a65ba48a23e4fed396f261
+timeCreated: 1461916967
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box001
+    100004: Box002
+    100006: Box003
+    100008: Cylinder001
+    100010: Cylinders for track 2
+    100012: Cylinders for track 2 1
+    100014: Cylinders for tracks
+    100016: Cylinders for tracks 1
+    100018: lid
+    100020: PhysCamera001.Target
+    100022: tank spline line follow thing
+    100024: tank spline track 2
+    100026: track one
+    100028: track one 1
+    100030: track one 10
+    100032: track one 11
+    100034: track one 12
+    100036: track one 13
+    100038: track one 14
+    100040: track one 15
+    100042: track one 16
+    100044: track one 17
+    100046: track one 18
+    100048: track one 19
+    100050: track one 2
+    100052: track one 20
+    100054: track one 21
+    100056: track one 22
+    100058: track one 23
+    100060: track one 24
+    100062: track one 25
+    100064: track one 26
+    100066: track one 3
+    100068: track one 4
+    100070: track one 5
+    100072: track one 6
+    100074: track one 7
+    100076: track one 8
+    100078: track one 9
+    100080: track one001
+    100082: track one002
+    100084: track one003
+    100086: track one004
+    100088: track one005
+    100090: track one006
+    100092: track one007
+    100094: track one008
+    100096: track one009
+    100098: track one010
+    100100: track one011
+    100102: track one012
+    100104: track one013
+    100106: track one014
+    100108: track one015
+    100110: track one016
+    100112: track one017
+    100114: track one018
+    100116: track one019
+    100118: track one020
+    100120: track one021
+    100122: track one022
+    100124: track one023
+    100126: track one024
+    100128: track one025
+    100130: track one026
+    100132: Tube001
+    400000: //RootNode
+    400002: Box001
+    400004: Box002
+    400006: Box003
+    400008: Cylinder001
+    400010: Cylinders for track 2
+    400012: Cylinders for track 2 1
+    400014: Cylinders for tracks
+    400016: Cylinders for tracks 1
+    400018: lid
+    400020: PhysCamera001.Target
+    400022: tank spline line follow thing
+    400024: tank spline track 2
+    400026: track one
+    400028: track one 1
+    400030: track one 10
+    400032: track one 11
+    400034: track one 12
+    400036: track one 13
+    400038: track one 14
+    400040: track one 15
+    400042: track one 16
+    400044: track one 17
+    400046: track one 18
+    400048: track one 19
+    400050: track one 2
+    400052: track one 20
+    400054: track one 21
+    400056: track one 22
+    400058: track one 23
+    400060: track one 24
+    400062: track one 25
+    400064: track one 26
+    400066: track one 3
+    400068: track one 4
+    400070: track one 5
+    400072: track one 6
+    400074: track one 7
+    400076: track one 8
+    400078: track one 9
+    400080: track one001
+    400082: track one002
+    400084: track one003
+    400086: track one004
+    400088: track one005
+    400090: track one006
+    400092: track one007
+    400094: track one008
+    400096: track one009
+    400098: track one010
+    400100: track one011
+    400102: track one012
+    400104: track one013
+    400106: track one014
+    400108: track one015
+    400110: track one016
+    400112: track one017
+    400114: track one018
+    400116: track one019
+    400118: track one020
+    400120: track one021
+    400122: track one022
+    400124: track one023
+    400126: track one024
+    400128: track one025
+    400130: track one026
+    400132: Tube001
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Cylinder001
+    2300008: Cylinders for track 2
+    2300010: Cylinders for track 2 1
+    2300012: Cylinders for tracks
+    2300014: Cylinders for tracks 1
+    2300016: lid
+    2300018: track one
+    2300020: track one 1
+    2300022: track one 10
+    2300024: track one 11
+    2300026: track one 12
+    2300028: track one 13
+    2300030: track one 14
+    2300032: track one 15
+    2300034: track one 16
+    2300036: track one 17
+    2300038: track one 18
+    2300040: track one 19
+    2300042: track one 2
+    2300044: track one 20
+    2300046: track one 21
+    2300048: track one 22
+    2300050: track one 23
+    2300052: track one 24
+    2300054: track one 25
+    2300056: track one 26
+    2300058: track one 3
+    2300060: track one 4
+    2300062: track one 5
+    2300064: track one 6
+    2300066: track one 7
+    2300068: track one 8
+    2300070: track one 9
+    2300072: track one001
+    2300074: track one002
+    2300076: track one003
+    2300078: track one004
+    2300080: track one005
+    2300082: track one006
+    2300084: track one007
+    2300086: track one008
+    2300088: track one009
+    2300090: track one010
+    2300092: track one011
+    2300094: track one012
+    2300096: track one013
+    2300098: track one014
+    2300100: track one015
+    2300102: track one016
+    2300104: track one017
+    2300106: track one018
+    2300108: track one019
+    2300110: track one020
+    2300112: track one021
+    2300114: track one022
+    2300116: track one023
+    2300118: track one024
+    2300120: track one025
+    2300122: track one026
+    2300124: Tube001
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Cylinder001
+    3300008: Cylinders for track 2
+    3300010: Cylinders for track 2 1
+    3300012: Cylinders for tracks
+    3300014: Cylinders for tracks 1
+    3300016: lid
+    3300018: track one
+    3300020: track one 1
+    3300022: track one 10
+    3300024: track one 11
+    3300026: track one 12
+    3300028: track one 13
+    3300030: track one 14
+    3300032: track one 15
+    3300034: track one 16
+    3300036: track one 17
+    3300038: track one 18
+    3300040: track one 19
+    3300042: track one 2
+    3300044: track one 20
+    3300046: track one 21
+    3300048: track one 22
+    3300050: track one 23
+    3300052: track one 24
+    3300054: track one 25
+    3300056: track one 26
+    3300058: track one 3
+    3300060: track one 4
+    3300062: track one 5
+    3300064: track one 6
+    3300066: track one 7
+    3300068: track one 8
+    3300070: track one 9
+    3300072: track one001
+    3300074: track one002
+    3300076: track one003
+    3300078: track one004
+    3300080: track one005
+    3300082: track one006
+    3300084: track one007
+    3300086: track one008
+    3300088: track one009
+    3300090: track one010
+    3300092: track one011
+    3300094: track one012
+    3300096: track one013
+    3300098: track one014
+    3300100: track one015
+    3300102: track one016
+    3300104: track one017
+    3300106: track one018
+    3300108: track one019
+    3300110: track one020
+    3300112: track one021
+    3300114: track one022
+    3300116: track one023
+    3300118: track one024
+    3300120: track one025
+    3300122: track one026
+    3300124: Tube001
+    4300000: Box001
+    4300002: Box002
+    4300004: lid
+    4300006: Cylinder001
+    4300008: Box003
+    4300010: Tube001
+    4300012: track one026
+    4300014: track one025
+    4300016: track one024
+    4300018: track one023
+    4300020: track one022
+    4300022: track one021
+    4300024: track one020
+    4300026: track one019
+    4300028: track one018
+    4300030: track one017
+    4300032: track one016
+    4300034: track one015
+    4300036: track one014
+    4300038: track one013
+    4300040: track one012
+    4300042: track one011
+    4300044: track one010
+    4300046: track one009
+    4300048: track one008
+    4300050: track one007
+    4300052: track one006
+    4300054: track one005
+    4300056: track one004
+    4300058: track one003
+    4300060: track one002
+    4300062: track one001
+    4300064: Cylinders for track 2
+    4300066: track one
+    4300068: Cylinders for tracks
+    4300070: Cylinders for tracks
+    4300072: track one
+    4300074: track one
+    4300076: track one
+    4300078: track one
+    4300080: track one
+    4300082: track one
+    4300084: track one
+    4300086: track one
+    4300088: track one
+    4300090: track one
+    4300092: track one
+    4300094: track one
+    4300096: track one
+    4300098: track one
+    4300100: track one
+    4300102: track one
+    4300104: track one
+    4300106: track one
+    4300108: track one
+    4300110: track one
+    4300112: track one
+    4300114: track one
+    4300116: track one
+    4300118: track one
+    4300120: track one
+    4300122: track one
+    4300124: Cylinders for track 2
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder001/Box003
+        weight: 1
+      - path: Cylinder001/Box003/Tube001
+        weight: 1
+      - path: Cylinders for track 2
+        weight: 1
+      - path: Cylinders for track 2 1
+        weight: 1
+      - path: Cylinders for tracks
+        weight: 1
+      - path: Cylinders for tracks 1
+        weight: 1
+      - path: lid
+        weight: 1
+      - path: PhysCamera001.Target
+        weight: 1
+      - path: tank spline line follow thing
+        weight: 1
+      - path: tank spline track 2
+        weight: 1
+      - path: track one
+        weight: 1
+      - path: track one 1
+        weight: 1
+      - path: track one 2
+        weight: 1
+      - path: track one 3
+        weight: 1
+      - path: track one 4
+        weight: 1
+      - path: track one 5
+        weight: 1
+      - path: track one 6
+        weight: 1
+      - path: track one 7
+        weight: 1
+      - path: track one 8
+        weight: 1
+      - path: track one 9
+        weight: 1
+      - path: track one 10
+        weight: 1
+      - path: track one 11
+        weight: 1
+      - path: track one 12
+        weight: 1
+      - path: track one 13
+        weight: 1
+      - path: track one 14
+        weight: 1
+      - path: track one 15
+        weight: 1
+      - path: track one 16
+        weight: 1
+      - path: track one 17
+        weight: 1
+      - path: track one 18
+        weight: 1
+      - path: track one 19
+        weight: 1
+      - path: track one 20
+        weight: 1
+      - path: track one 21
+        weight: 1
+      - path: track one 22
+        weight: 1
+      - path: track one 23
+        weight: 1
+      - path: track one 24
+        weight: 1
+      - path: track one 25
+        weight: 1
+      - path: track one 26
+        weight: 1
+      - path: track one001
+        weight: 1
+      - path: track one002
+        weight: 1
+      - path: track one003
+        weight: 1
+      - path: track one004
+        weight: 1
+      - path: track one005
+        weight: 1
+      - path: track one006
+        weight: 1
+      - path: track one007
+        weight: 1
+      - path: track one008
+        weight: 1
+      - path: track one009
+        weight: 1
+      - path: track one010
+        weight: 1
+      - path: track one011
+        weight: 1
+      - path: track one012
+        weight: 1
+      - path: track one013
+        weight: 1
+      - path: track one014
+        weight: 1
+      - path: track one015
+        weight: 1
+      - path: track one016
+        weight: 1
+      - path: track one017
+        weight: 1
+      - path: track one018
+        weight: 1
+      - path: track one019
+        weight: 1
+      - path: track one020
+        weight: 1
+      - path: track one021
+        weight: 1
+      - path: track one022
+        weight: 1
+      - path: track one023
+        weight: 1
+      - path: track one024
+        weight: 1
+      - path: track one025
+        weight: 1
+      - path: track one026
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

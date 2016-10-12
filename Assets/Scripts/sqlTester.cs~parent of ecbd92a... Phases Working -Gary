@@ -1,0 +1,104 @@
+﻿using UnityEngine;
+using Mono.Data.Sqlite;
+using System.Data;
+using System;
+using System.Collections;
+using System.Collections.Generic;
+
+
+public class sqlTester : MonoBehaviour {
+    private String conn, phase;
+	public int i = 0;
+    public List<Card> deck;
+    public List<Card> player1Hand;
+    public List<Card> player2Hand;
+    // Use this for initialization
+
+
+
+
+    void Start () {
+        
+        //Find the DB file in the assets folder 
+        conn = "URI=file:" + Application.dataPath + "/CardDatabase.db";
+        //conn = "URI=file:C:/Users/t00183089/Desktop/Scene for testing animations/animation testing/Assets/CardDatabase.db"; 
+        //needs to be changed based on who is using this file. 
+        // Debug.Log(conn); //used for testing where the connection string is going 
+        //at the start of the game the deck is created 
+        deck = new List<Card>();
+        for (int i = 0; i <= 40; i++)
+        {
+            createDeck(i);
+        }
+  
+        
+
+
+
+    }
+	
+	// Update is called once per frame
+	void Update () {
+
+
+
+	}
+
+    private Card pullCard()
+    {
+            int rnd = Convert.ToInt32(UnityEngine.Random.Range(0f, deck.Count));
+            
+            Card cardPulled = deck[rnd];
+            cardPulled.toString();
+            deck.Remove(cardPulled);
+            return cardPulled;   
+    }
+
+
+    private void createDeck(int i)
+    {
+        //creates a connection and opens
+        using (IDbConnection dbConn = new SqliteConnection(conn))
+        {
+            dbConn.Open();
+            //creates the command and the sql needed
+            using (IDbCommand dbCmd = dbConn.CreateCommand())
+            {
+                string sqlQuery = "SELECT * FROM Cards where cardID = "+ i +";";
+                
+                dbCmd.CommandText = sqlQuery;
+                //creates the reader and fills up a List with cards for the deck
+                using (IDataReader reader = dbCmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        Card card = new Card();
+                        card.setCardId(reader.GetInt32(0));
+                        card.setCardTitle(reader.GetString(1));
+                        card.setHealth(reader.GetInt32(2));
+                        card.setAttackPower(reader.GetInt32(3));
+                        card.setDescription(reader.GetString(4));
+                        card.setAttribute(reader.GetString(5));
+                        card.setManaCost(reader.GetInt32(6));
+                        deck.Add(card);
+                        //Debug.Log(reader.GetInt32(0));
+                        //Debug.Log(reader.GetString(1));
+                        //Debug.Log(reader.GetInt32(2));
+                        //Debug.Log(reader.GetInt32(3));
+                        //Debug.Log(reader.GetString(4));
+                        //Debug.Log(reader.GetString(5));
+
+
+
+
+
+                    }
+                    //close the connection and the reader
+                    dbConn.Close();
+                    reader.Close();
+                }
+
+            }
+        }
+    }
+}

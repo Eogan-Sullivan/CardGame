@@ -1,0 +1,104 @@
+# Exported from Fuse 2015.1.0
+
+newmtl Hat
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d EarthMan_Hat_Opacity.png
+map_Kd EarthMan_Hat_Diffuse.png
+adobe_map_normal EarthMan_Hat_Normal.png
+map_Ks EarthMan_Hat_Specular.png
+adobe_map_shininess EarthMan_Hat_Gloss.png
+
+newmtl Glove
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d EarthMan_Glove_Opacity.png
+map_Kd EarthMan_Glove_Diffuse.png
+adobe_map_normal EarthMan_Glove_Normal.png
+map_Ks EarthMan_Glove_Specular.png
+adobe_map_shininess EarthMan_Glove_Gloss.png
+
+newmtl Shoes
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d EarthMan_Shoes_Opacity.png
+map_Kd EarthMan_Shoes_Diffuse.png
+adobe_map_normal EarthMan_Shoes_Normal.png
+map_Ks EarthMan_Shoes_Specular.png
+adobe_map_shininess EarthMan_Shoes_Gloss.png
+
+newmtl Body
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d EarthMan_Body_Opacity.png
+map_Kd EarthMan_Body_Diffuse.png
+adobe_map_normal EarthMan_Body_Normal.png
+map_Ks EarthMan_Body_Specular.png
+adobe_map_shininess EarthMan_Body_Gloss.png
+
+newmtl Bottom
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d EarthMan_Bottom_Opacity.png
+map_Kd EarthMan_Bottom_Diffuse.png
+adobe_map_normal EarthMan_Bottom_Normal.png
+map_Ks EarthMan_Bottom_Specular.png
+adobe_map_shininess EarthMan_Bottom_Gloss.png
+
+newmtl Top
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d EarthMan_Top_Opacity.png
+map_Kd EarthMan_Top_Diffuse.png
+adobe_map_normal EarthMan_Top_Normal.png
+map_Ks EarthMan_Top_Specular.png
+adobe_map_shininess EarthMan_Top_Gloss.png
+

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: ff132c44b4ea3ee458b540f7e3ec39cc
+timeCreated: 1456221890
+licenseType: Free
+=======
+guid: 6ee2b3efaecb1564da3ab89c54e5ea77
+timeCreated: 1458744011
+licenseType: Pro
+>>>>>>> parent of ecbd92a... Phases Working -Gary
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

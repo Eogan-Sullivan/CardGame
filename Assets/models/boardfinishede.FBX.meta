@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 417b1545f97ef1444863a4c3cd237cfe
+timeCreated: 1455104175
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BorderLine
+    100004: Game Table
+    100006: ManaTOKEN
+    100008: ManaTOKEN001
+    100010: ManaTOKEN002
+    100012: ManaTOKEN003
+    100014: ManaTOKEN004
+    100016: ManaTOKEN005
+    100018: ManaTOKEN006
+    100020: ManaTOKEN007
+    100022: ManaTOKEN008
+    100024: ManaTOKEN009
+    100026: ManaTOKEN010
+    100028: ManaTOKEN011
+    100030: ManaTOKEN012
+    100032: ManaTOKEN013
+    100034: ManaTOKEN014
+    100036: ManaTOKEN015
+    400000: //RootNode
+    400002: BorderLine
+    400004: Game Table
+    400006: ManaTOKEN
+    400008: ManaTOKEN001
+    400010: ManaTOKEN002
+    400012: ManaTOKEN003
+    400014: ManaTOKEN004
+    400016: ManaTOKEN005
+    400018: ManaTOKEN006
+    400020: ManaTOKEN007
+    400022: ManaTOKEN008
+    400024: ManaTOKEN009
+    400026: ManaTOKEN010
+    400028: ManaTOKEN011
+    400030: ManaTOKEN012
+    400032: ManaTOKEN013
+    400034: ManaTOKEN014
+    400036: ManaTOKEN015
+    2300000: BorderLine
+    2300002: Game Table
+    2300004: ManaTOKEN
+    2300006: ManaTOKEN001
+    2300008: ManaTOKEN002
+    2300010: ManaTOKEN003
+    2300012: ManaTOKEN004
+    2300014: ManaTOKEN005
+    2300016: ManaTOKEN006
+    2300018: ManaTOKEN007
+    2300020: ManaTOKEN008
+    2300022: ManaTOKEN009
+    2300024: ManaTOKEN010
+    2300026: ManaTOKEN011
+    2300028: ManaTOKEN012
+    2300030: ManaTOKEN013
+    2300032: ManaTOKEN014
+    2300034: ManaTOKEN015
+    3300000: BorderLine
+    3300002: Game Table
+    3300004: ManaTOKEN
+    3300006: ManaTOKEN001
+    3300008: ManaTOKEN002
+    3300010: ManaTOKEN003
+    3300012: ManaTOKEN004
+    3300014: ManaTOKEN005
+    3300016: ManaTOKEN006
+    3300018: ManaTOKEN007
+    3300020: ManaTOKEN008
+    3300022: ManaTOKEN009
+    3300024: ManaTOKEN010
+    3300026: ManaTOKEN011
+    3300028: ManaTOKEN012
+    3300030: ManaTOKEN013
+    3300032: ManaTOKEN014
+    3300034: ManaTOKEN015
+    4300000: Game Table
+    4300002: BorderLine
+    4300004: ManaTOKEN
+    4300006: ManaTOKEN001
+    4300008: ManaTOKEN002
+    4300010: ManaTOKEN003
+    4300012: ManaTOKEN004
+    4300014: ManaTOKEN005
+    4300016: ManaTOKEN006
+    4300018: ManaTOKEN007
+    4300020: ManaTOKEN008
+    4300022: ManaTOKEN009
+    4300024: ManaTOKEN010
+    4300026: ManaTOKEN011
+    4300028: ManaTOKEN012
+    4300030: ManaTOKEN013
+    4300032: ManaTOKEN014
+    4300034: ManaTOKEN015
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

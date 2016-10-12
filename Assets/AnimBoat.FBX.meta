@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: c72705a66b158ec4dafd0ec396204663
+timeCreated: 1461915175
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box001
+    100004: Box002
+    100006: Box003
+    100008: Box004
+    100010: Box005
+    100012: Box006
+    100014: Cylinder001
+    100016: Cylinder002
+    100018: Cylinder003
+    100020: Cylinder004
+    100022: Cylinder005
+    100024: Cylinder006
+    100026: Cylinder007
+    100028: Cylinder008
+    100030: Cylinder009
+    100032: Cylinder010
+    100034: Cylinder011
+    100036: Cylinder012
+    100038: Plane001
+    100040: Plane002
+    100042: Plane003
+    100044: Torus001
+    400000: //RootNode
+    400002: Box001
+    400004: Box002
+    400006: Box003
+    400008: Box004
+    400010: Box005
+    400012: Box006
+    400014: Cylinder001
+    400016: Cylinder002
+    400018: Cylinder003
+    400020: Cylinder004
+    400022: Cylinder005
+    400024: Cylinder006
+    400026: Cylinder007
+    400028: Cylinder008
+    400030: Cylinder009
+    400032: Cylinder010
+    400034: Cylinder011
+    400036: Cylinder012
+    400038: Plane001
+    400040: Plane002
+    400042: Plane003
+    400044: Torus001
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Cylinder001
+    2300014: Cylinder002
+    2300016: Cylinder003
+    2300018: Cylinder004
+    2300020: Cylinder005
+    2300022: Cylinder006
+    2300024: Cylinder007
+    2300026: Cylinder008
+    2300028: Cylinder009
+    2300030: Cylinder010
+    2300032: Cylinder011
+    2300034: Cylinder012
+    2300036: Plane001
+    2300038: Plane002
+    2300040: Plane003
+    2300042: Torus001
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Cylinder001
+    3300014: Cylinder002
+    3300016: Cylinder003
+    3300018: Cylinder004
+    3300020: Cylinder005
+    3300022: Cylinder006
+    3300024: Cylinder007
+    3300026: Cylinder008
+    3300028: Cylinder009
+    3300030: Cylinder010
+    3300032: Cylinder011
+    3300034: Cylinder012
+    3300036: Plane001
+    3300038: Plane002
+    3300040: Plane003
+    3300042: Torus001
+    4300000: Box001
+    4300002: Cylinder001
+    4300004: Cylinder002
+    4300006: Cylinder003
+    4300008: Cylinder004
+    4300010: Box002
+    4300012: Cylinder005
+    4300014: Cylinder006
+    4300016: Cylinder007
+    4300018: Plane001
+    4300020: Plane003
+    4300022: Plane002
+    4300024: Box003
+    4300026: Box004
+    4300028: Box005
+    4300030: Torus001
+    4300032: Box006
+    4300034: Cylinder008
+    4300036: Cylinder009
+    4300038: Cylinder010
+    4300040: Cylinder011
+    4300042: Cylinder012
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box005
+        weight: 1
+      - path: Box006
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder002
+        weight: 1
+      - path: Cylinder003
+        weight: 1
+      - path: Cylinder004
+        weight: 1
+      - path: Cylinder005
+        weight: 1
+      - path: Cylinder006
+        weight: 1
+      - path: Cylinder007
+        weight: 1
+      - path: Cylinder007/Plane001
+        weight: 1
+      - path: Cylinder007/Plane002
+        weight: 1
+      - path: Cylinder007/Plane003
+        weight: 1
+      - path: Cylinder008
+        weight: 1
+      - path: Cylinder009
+        weight: 1
+      - path: Cylinder010
+        weight: 1
+      - path: Cylinder011
+        weight: 1
+      - path: Cylinder012
+        weight: 1
+      - path: Torus001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
